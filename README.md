@@ -1,2 +1,1 @@
-# introduction-to-java-scrip-assignmnent-5
-javascript and ajax
+# Introduction-to-js-and-ajax-assignemnt5
